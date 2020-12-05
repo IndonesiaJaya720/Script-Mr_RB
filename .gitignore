@@ -1,0 +1,19 @@
+# TOOLS INI BERISI SCRIPT #
+# [ MR_RB ] #
+
+# PENGINSTALL AKAN BERJALAN SESUAI KECEPATAN INTERNET #
+# [ 01 ] Metasploit : Metasploit framework merupakan aplikasi untuk membuat,menguji dan menjalankan exploits. Metasploit biasa digunakan untuk membuat alat dan modul penguji sistem keamanan komputer sekaligus digunakan juga sebagai alat penguji sistem keamanan (penetration testing system/hacking). #
+# Metasploit Ukuran - Nya : [ 300 mb - 500 mb ] #
+# Alasan - Nya Metasploit : Install Metasploit Jaringan Harus Stabil #
+# Install Metasploit : [ msfconsole ] $ [ Dan Masukan Backdoor Pyload Ya ]
+# [ 02 ] Nmap : Nmap (Network Mapper) adalah sebuah aplikasi atau tool yang berfungsi untuk melakukan port scanning. Nmap dibuat oleh Gordon Lyon, atau lebih dikenal dengan nama Fyodor Vaskovich. Aplikasi ini digunakan untuk meng-audit jaringan yang ada. #
+# Nmap Ukuran - Nya : [ 30 mb - 10 mb ] #
+# Alasan - Nya Nmap : Install Nmap Harus Tahu Cara Memakai Ya #
+# Install Nmap : [ nmap -h ] && [ nmap --h ]
+# [ 03 ] ddos attack : DDoS adalah jenis serangan yang dilakukan dengan cara membanjiri lalu lintas jaringan internet pada server, sistem, atau jaringan. Umumnya serangan ini dilakukan menggunakan beberapa komputer host penyerang sampai dengan komputer target tidak bisa diakses. #
+# ddos attack ukuran - Nya : [ 50 mb - 30 mb ] #
+# Install ddos attack : IP : Masukin IP Target Ya #
+
+# Sekian Dari Saya #
+# [ MR_RB ] #
+# Terima Kasih #
